@@ -1,0 +1,2 @@
+# kousika-namingregistry
+kousika-registry
